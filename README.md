@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me 
  LinkedIn : https://www.linkedin.com/in/parimal-gaurkhede-32502abb/
- Twitter : https://twitter.com/P_a_r_i_m_a_l
- Data Science PortFolio: https://live2awesome.github.io/DataSciencePortfolio/
 
 <!---
 live2awesome/live2awesome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
