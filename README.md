@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @live2awesome
-- 👀 I’m interested in Data Science  
-- 🌱 I’m currently doing Real Time Projects in Data Science
-- 💞️ I’m looking to collaborate on Open Source Projects 
+- 👀 I’m Passionate guy for Data Science  
+- 🌱 I’m currently doing research on specific domain & data science 
+- 💞️ I’m love to contribute on Open Source Projects 
 - 📫 How to reach me 
  LinkedIn : https://www.linkedin.com/in/parimal-gaurkhede-32502abb/
 
