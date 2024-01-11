@@ -3,8 +3,8 @@
 - 🌱 I’m currently doing research on specific domain & data science 
 - 💞️ I’m love to contribute on Open Source Projects 
 - 📫 How to reach me 
- LinkedIn : https://www.linkedin.com/in/parimal-gaurkhede-32502abb/
- Portfolio website : https://parimalg.netlify.app/
+- LinkedIn : https://www.linkedin.com/in/parimal-gaurkhede-32502abb/
+- Portfolio website : https://parimalg.netlify.app/
 
 <!---
 live2awesome/live2awesome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
