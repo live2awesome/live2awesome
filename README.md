@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @live2awesome
+- 👋 Hi, I’m Parimal 
 - 👀 I’m Passionate guy for Data Science  
 - 🌱 I’m currently doing research on synthentic data generation 
 - 💞️ I’m love to contribute on Open Source Projects 
